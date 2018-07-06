@@ -1,0 +1,20 @@
+{
+  "name": "webtasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "foo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug": "wt debug foo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfatta/webtasks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfatta/webtasks/issues"
+  },
+  "homepage": "https://github.com/jfatta/webtasks#readme"
+}
