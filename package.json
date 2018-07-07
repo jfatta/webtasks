@@ -5,7 +5,7 @@
   "main": "foo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "debug": "wt debug foo.js"
+    "debug": "wt debug ghhook.js"
   },
   "repository": {
     "type": "git",
